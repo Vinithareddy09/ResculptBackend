@@ -2,6 +2,9 @@
 
 An Express.js backend for the **ReSculpt** project — a personalized learning and growth platform for developers. This backend handles community interactions, gamification (badges, leaderboard), and progress tracking using a lightweight JSON-based database (`lowdb`).
 
+🔗 **Project Repositories:**  
+- Frontend: [ReSculptFrontend](https://github.com/Vinithareddy09/ResculptFrontend)  
+- Backend: [ReSculptBackend](https://github.com/Vinithareddy09/ResculptBackend)
 ---
 
 ## 📁 Project Structure
